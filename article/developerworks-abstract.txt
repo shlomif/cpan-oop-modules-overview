@@ -1,0 +1,9 @@
+This article explains the elements of a great personal home site - what to avoid, what to do. It also touches on how to do it, and then goes to review some popular home sites for what they did and did not do wrong.
+
+It is important because many people don't have a home site, and some of them may wish to get one. Also, some of them have ones, but they are bad in many respects.
+
+The technical level of the audience is someone who has experience with the Internet and the Web, but may not have much knowledge besides that.
+
+My background: I am an experienced software developer, writers of stories, articels, essays and presentations and maintain a rich personal home site at http://www.shlomifish.org/.
+
+You can find the complete presentation at http://xrl.us/h8yr and it's attached to this message.
