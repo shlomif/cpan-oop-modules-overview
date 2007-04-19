@@ -12,11 +12,16 @@
 
     * Class::Delegate
     * Class::Multimethods.
+
     * NEXT
+    * Class::C3
 
     * Roles/Traits
         * Class::Trait
         * Class::Roles
+
+    * Introspection:
+        * http://search.cpan.org/dist/Class-Inspector/
 
 * Object systems:
 
@@ -25,6 +30,7 @@
     * Class::Std.
 
     * Class::Contract
+        - http://cpan.uwinnipeg.ca/dist/Class-Contract
 
     * Prototype-based OO
         - Self, JS, IO
@@ -43,4 +49,9 @@
 
     * Test::Unit.
     * Test::Class.
+
+* OO Exceptions
+
+    - Error.pm
+    - Exception::Class
 
