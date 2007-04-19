@@ -9,8 +9,8 @@ all: $(FILE)
 $(FILE) : $(SRC_FILE)
 	wml $(WML_FLAGS) -o $@ $< 
 
-EXTRA_FILES = TODO DONE
+EXTRA_FILES = TODO DONE summary.txt
 
 upload: $(FILE)
-	rsync --rsh=ssh -v --progress Makefile $(SRC_FILE) $(FILE) $(EXTRA_FILES) $${HOMEPAGE_SSH_PATH}/test-count-article-g6nJmup3p9/
+	rsync --rsh=ssh -v --progress Makefile $(SRC_FILE) $(FILE) $(EXTRA_FILES) $${HOMEPAGE_SSH_PATH}/perl-oop-systems-n6eWb7==LK/
 

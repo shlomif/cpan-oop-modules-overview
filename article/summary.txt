@@ -1,0 +1,46 @@
+* Accessors:
+
+    * Class::Accessor
+    * more.
+
+* Method generators:
+
+    * Class::MethodMaker
+    * Class::MakeMethods
+
+* Utility modules:
+
+    * Class::Delegate
+    * Class::Multimethods.
+    * NEXT
+
+    * Roles/Traits
+        * Class::Trait
+        * Class::Roles
+
+* Object systems:
+
+    * Moose.
+        - Class::MOP
+    * Class::Std.
+
+    * Class::Contract
+
+    * Prototype-based OO
+        - Self, JS, IO
+        * Class::Prototyped
+            * CGI::Prototype
+        * Class::Classless
+
+    * Spiffy
+        - Class::Spiffy
+
+* Aspect Oriented Programming.
+
+    * Aspect.pm
+
+* OO Testing.
+
+    * Test::Unit.
+    * Test::Class.
+
