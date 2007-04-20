@@ -1,4 +1,4 @@
-FILE = test-count.html
+FILE = perl-oop-modules.html
 
 SRC_FILE = $(FILE).wml
 WML_FLAGS += -I$${HOME}/apps/wml/shlomif-html-article-template/
