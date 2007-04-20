@@ -1,12 +1,21 @@
 * Accessors:
 
     * Class::Accessor
+        - Class::Accessor::Fast.
+        - Class::Accessor::Chained.
+        - Class::Accessor::Ref
     * more.
+    * http://search.cpan.org/dist/Object-AutoAccessor/
+        - Using AUTOLOAD.
+    * http://cpan.uwinnipeg.ca/dist/Class-Field
+        - by Ingy
 
 * Method generators:
 
     * Class::MethodMaker
     * Class::MakeMethods
+    * Class::BuildMethods
+
 
 * Utility modules:
 
