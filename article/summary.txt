@@ -9,6 +9,8 @@
         - Using AUTOLOAD.
     * http://cpan.uwinnipeg.ca/dist/Class-Field
         - by Ingy
+    * http://cpan.uwinnipeg.ca/dist/Attribute-Property
+        - by Juerd
 
 * Method generators:
 
@@ -19,7 +21,11 @@
 
 * Utility modules:
 
-    * Class::Delegate
+    * Delegation:
+        - http://cpan.uwinnipeg.ca/dist/Class-Delegator
+        - Class::Delegate
+        - http://cpan.uwinnipeg.ca/dist/Class-Delegation
+
     * Class::Multimethods.
 
     * NEXT
