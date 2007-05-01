@@ -1,3 +1,6 @@
+This is the summary for the article about modules for facilitating
+Object Oriented Programming in Perl.
+
 * Accessors:
 
     * Class::Accessor
@@ -11,6 +14,11 @@
         - by Ingy
     * http://cpan.uwinnipeg.ca/dist/Attribute-Property
         - by Juerd
+
+    * Class::Data::Inheritable
+        - http://cpan.uwinnipeg.ca/dist/Class-Data-Inheritable
+        - Class::Data::Inheritable::Translucent
+            - http://cpan.uwinnipeg.ca/dist/Class-Data-Inheritable-Translucent
 
 * Method generators:
 
@@ -34,6 +42,8 @@
     * Roles/Traits
         * Class::Trait
         * Class::Roles
+        * http://cpan.uwinnipeg.ca/dist/mixin
+        * http://cpan.uwinnipeg.ca/dist/Perl6-Roles
 
     * Introspection:
         * http://search.cpan.org/dist/Class-Inspector/
