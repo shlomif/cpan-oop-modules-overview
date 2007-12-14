@@ -79,4 +79,5 @@ Object Oriented Programming in Perl.
 
     - Error.pm
     - Exception::Class
+    - http://search.cpan.org/dist/Class-Throwable/
 
