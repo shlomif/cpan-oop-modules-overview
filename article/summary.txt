@@ -17,6 +17,11 @@ Object Oriented Programming in Perl.
     * Object-Tiny
         - by Adam Kennedy
         - aims to be minimalistic and very fast.
+    * Class::XSAccessor:
+        - http://cpan.uwinnipeg.ca/dist/Class-XSAccessor
+        - generates writers/readers/mutators/has_* written in C.
+        - the fastest.
+            - faster than writing your own for each field in Perl.
 
     * Class::Data::Inheritable
         - http://cpan.uwinnipeg.ca/dist/Class-Data-Inheritable
@@ -28,7 +33,6 @@ Object Oriented Programming in Perl.
     * Class::MethodMaker
     * Class::MakeMethods
     * Class::BuildMethods
-
 
 * Utility modules:
 
@@ -55,6 +59,9 @@ Object Oriented Programming in Perl.
 
     * Moose.
         - Class::MOP
+        - Mouse
+        - Any::Moose
+
     * Class::Std.
 
     * Class::Contract
