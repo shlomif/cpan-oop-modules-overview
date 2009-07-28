@@ -3,53 +3,55 @@ Object Oriented Programming in Perl.
 
 * Accessors:
 
-    * Class::Accessor
-        - Class::Accessor::Fast.
-        - Class::Accessor::Chained.
-        - Class::Accessor::Ref
-    * more.
+    * http://search.cpan.org/dist/Class-Accessor/
+        - http://search.cpan.org/dist/Class-Accessor-Fast/
+        - http://search.cpan.org/dist/Class-Accessor-Chained/
+        - http://search.cpan.org/dist/Class-Accessor-Ref/
+    * http://search.cpan.org/dist/Object-Accessor/
     * http://search.cpan.org/dist/Object-AutoAccessor/
         - Using AUTOLOAD.
-    * http://cpan.uwinnipeg.ca/dist/Class-Field
+    * http://cpan.uwinnipeg.ca/dist/Class-Field/
         - by Ingy
-    * http://cpan.uwinnipeg.ca/dist/Attribute-Property
+    * http://cpan.uwinnipeg.ca/dist/Attribute-Property/
         - by Juerd
-    * Object-Tiny
+    * http://search.cpan.org/dist/Object-Tiny/
         - by Adam Kennedy
         - aims to be minimalistic and very fast.
-    * Class::XSAccessor:
-        - http://cpan.uwinnipeg.ca/dist/Class-XSAccessor
+    * http://search.cpan.org/dist/Class-XSAccessor/ :
+        - http://cpan.uwinnipeg.ca/dist/Class-XSAccessor/
         - generates writers/readers/mutators/has_* written in C.
         - the fastest.
             - faster than writing your own for each field in Perl.
 
-    * Class::Data::Inheritable
-        - http://cpan.uwinnipeg.ca/dist/Class-Data-Inheritable
-        - Class::Data::Inheritable::Translucent
-            - http://cpan.uwinnipeg.ca/dist/Class-Data-Inheritable-Translucent
+    * http://search.cpan.org/dist/Class-Data-Inheritable/
+        - http://cpan.uwinnipeg.ca/dist/Class-Data-Inheritable/
+        - http://search.cpan.org/dist/Class-Data-Inheritable-Translucent/
+            - http://cpan.uwinnipeg.ca/dist/Class-Data-Inheritable-Translucent/
 
 * Method generators:
 
-    * Class::MethodMaker
-    * Class::MakeMethods
-    * Class::BuildMethods
+    * http://search.cpan.org/dist/Class-MethodMaker/
+    * http://search.cpan.org/dist/Class-MakeMethods/
+    * http://search.cpan.org/dist/Class-BuildMethods/
 
 * Utility modules:
 
     * Delegation:
-        - http://cpan.uwinnipeg.ca/dist/Class-Delegator
-        - Class::Delegate
-        - http://cpan.uwinnipeg.ca/dist/Class-Delegation
+        - http://cpan.uwinnipeg.ca/dist/Class-Delegator/
+        - http://search.cpan.org/dist/Class-Delegate/
+        - http://cpan.uwinnipeg.ca/dist/Class-Delegation/
 
-    * Class::Multimethods.
+    * http://search.cpan.org/dist/Class-Multimethods/
 
-    * NEXT
-    * Class::C3
+    * http://search.cpan.org/dist/NEXT/
+        - deprecated (see MRO-Compat)
+    * http://search.cpan.org/dist/Class-C3/
+    * http://search.cpan.org/dist/MRO-Compat/
 
     * Roles/Traits
-        * Class::Trait
-        * Class::Roles
-        * http://cpan.uwinnipeg.ca/dist/mixin
+        * http://search.cpan.org/dist/Class-Trait/
+        * http://search.cpan.org/dist/Class-Roles/
+        * http://cpan.uwinnipeg.ca/dist/mixin/
         * http://cpan.uwinnipeg.ca/dist/Perl6-Roles
 
     * Introspection:
@@ -57,37 +59,37 @@ Object Oriented Programming in Perl.
 
 * Object systems:
 
-    * Moose.
-        - Class::MOP
+    * http://search.cpan.org/dist/Moose/
+        - http://search.cpan.org/dist/Class-MOP/
         - Mouse
-        - Any::Moose
+        - http://search.cpan.org/dist/Any-Moose/
 
-    * Class::Std.
+    * http://search.cpan.org/dist/Class-Std/
 
-    * Class::Contract
+    * http://search.cpan.org/dist/Class-Contract/
         - http://cpan.uwinnipeg.ca/dist/Class-Contract
 
     * Prototype-based OO
-        - Self, JS, IO
-        * Class::Prototyped
-            * CGI::Prototype
-        * Class::Classless
+        - Self, JS, io-language
+        * http://search.cpan.org/dist/Class-Prototyped/
+            * http://search.cpan.org/dist/CGI-Prototype/
+        * http://search.cpan.org/dist/Class-Classless/
 
     * Spiffy
-        - Class::Spiffy
+        - http://search.cpan.org/dist/Class-Spiffy/
 
 * Aspect Oriented Programming.
 
-    * Aspect.pm
+    * http://search.cpan.org/dist/Aspect/
 
 * OO Testing.
 
-    * Test::Unit.
-    * Test::Class.
+    * http://search.cpan.org/dist/Test-Unit/.
+    * http://search.cpan.org/dist/Test-Class/.
 
 * OO Exceptions
 
-    - Error.pm
-    - Exception::Class
+    - http://search.cpan.org/dist/Error/
+    - http://search.cpan.org/dist/Exception-Class/
     - http://search.cpan.org/dist/Class-Throwable/
 
