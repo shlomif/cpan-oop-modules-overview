@@ -1,0 +1,95 @@
+This is the summary for the article about modules for facilitating
+Object Oriented Programming in Perl.
+
+* Accessors:
+
+** http://search.cpan.org/dist/Class-Accessor/
+*** http://search.cpan.org/dist/Class-Accessor-Fast/
+*** http://search.cpan.org/dist/Class-Accessor-Chained/
+*** http://search.cpan.org/dist/Class-Accessor-Ref/
+** http://search.cpan.org/dist/Object-Accessor/
+** http://search.cpan.org/dist/Object-AutoAccessor/
+*** Using AUTOLOAD.
+** http://search.cpan.org/dist/Class-Field/
+*** by Ingy
+** http://search.cpan.org/dist/Attribute-Property/
+*** by Juerd
+** http://search.cpan.org/dist/Object-Tiny/
+*** by Adam Kennedy
+*** aims to be minimalistic and very fast.
+** http://search.cpan.org/dist/Class-XSAccessor/ :
+*** http://search.cpan.org/dist/Class-XSAccessor/
+*** generates writers/readers/mutators/has_* written in C.
+*** the fastest.
+**** faster than writing your own for each field in Perl.
+
+** http://search.cpan.org/dist/Class-Data-Inheritable/
+*** http://search.cpan.org/dist/Class-Data-Inheritable/
+*** http://search.cpan.org/dist/Class-Data-Inheritable-Translucent/
+**** http://search.cpan.org/dist/Class-Data-Inheritable-Translucent/
+
+* Method generators:
+
+** http://search.cpan.org/dist/Class-MethodMaker/
+** http://search.cpan.org/dist/Class-MakeMethods/
+** http://search.cpan.org/dist/Class-BuildMethods/
+
+* Utility modules:
+
+** Delegation:
+*** http://search.cpan.org/dist/Class-Delegator/
+*** http://search.cpan.org/dist/Class-Delegate/
+*** http://search.cpan.org/dist/Class-Delegation/
+
+** http://search.cpan.org/dist/Class-Multimethods/
+
+** http://search.cpan.org/dist/NEXT/
+*** deprecated (see MRO-Compat)
+** http://search.cpan.org/dist/Class-C3/
+** http://search.cpan.org/dist/MRO-Compat/
+
+** Roles/Traits
+*** http://search.cpan.org/dist/Class-Trait/
+*** http://search.cpan.org/dist/Class-Roles/
+*** http://search.cpan.org/dist/mixin/
+*** http://search.cpan.org/dist/Perl6-Roles
+
+** Introspection:
+*** http://search.cpan.org/dist/Class-Inspector/
+
+* Object systems:
+
+** http://search.cpan.org/dist/Moose/
+*** http://search.cpan.org/dist/Class-MOP/
+*** Mouse
+*** http://search.cpan.org/dist/Any-Moose/
+
+** http://search.cpan.org/dist/Class-Std/
+
+** http://search.cpan.org/dist/Class-Contract/
+*** http://search.cpan.org/dist/Class-Contract
+
+** Prototype-based OO
+*** Self, JS, io-language
+*** http://search.cpan.org/dist/Class-Prototyped/
+**** http://search.cpan.org/dist/CGI-Prototype/
+*** http://search.cpan.org/dist/Class-Classless/
+
+** Spiffy
+*** http://search.cpan.org/dist/Class-Spiffy/
+
+* Aspect Oriented Programming.
+
+** http://search.cpan.org/dist/Aspect/
+
+* OO Testing.
+
+** http://search.cpan.org/dist/Test-Unit/.
+** http://search.cpan.org/dist/Test-Class/.
+
+* OO Exceptions
+
+** http://search.cpan.org/dist/Error/
+** http://search.cpan.org/dist/Exception-Class/
+** http://search.cpan.org/dist/Class-Throwable/
+
