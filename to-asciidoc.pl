@@ -17,7 +17,8 @@ use Path::Tiny qw/ path tempdir tempfile cwd /;
 path("article/summary.asciidoc")->spew_utf8(
     sub {
         my $t = path("article/summary.txt")->slurp_utf8();
-        $t =~ s#^( +)([\-\*])#"*" x (length($1)/4)#egms;
+        $t =~ s#^( +)([\-\*])#"*" x (1 + length($1)/4)#egms;
+        $t =~ s#http://cpan.uwinnipeg.ca/#http://search.cpan.org/#g;
         return $t;
     }
         ->()
